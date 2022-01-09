@@ -1,0 +1,16 @@
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\bin\Debug\net5.0\NewFeatureCSharp.exe
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\bin\Debug\net5.0\NewFeatureCSharp.deps.json
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\bin\Debug\net5.0\NewFeatureCSharp.runtimeconfig.json
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\bin\Debug\net5.0\NewFeatureCSharp.runtimeconfig.dev.json
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\bin\Debug\net5.0\NewFeatureCSharp.dll
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\bin\Debug\net5.0\ref\NewFeatureCSharp.dll
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\bin\Debug\net5.0\NewFeatureCSharp.pdb
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\obj\Debug\net5.0\NewFeatureCSharp.csproj.AssemblyReference.cache
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\obj\Debug\net5.0\NewFeatureCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\obj\Debug\net5.0\NewFeatureCSharp.AssemblyInfoInputs.cache
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\obj\Debug\net5.0\NewFeatureCSharp.AssemblyInfo.cs
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\obj\Debug\net5.0\NewFeatureCSharp.csproj.CoreCompileInputs.cache
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\obj\Debug\net5.0\NewFeatureCSharp.dll
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\obj\Debug\net5.0\ref\NewFeatureCSharp.dll
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\obj\Debug\net5.0\NewFeatureCSharp.pdb
+E:\THUC HANH LAP TRINH .NET NC_CNTT 1302\Lession2\NewFeatureCSharp\obj\Debug\net5.0\NewFeatureCSharp.genruntimeconfig.cache
