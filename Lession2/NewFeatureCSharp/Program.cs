@@ -41,6 +41,7 @@ namespace NewFeatureCSharp
                 Address = "Ha Noi"
             };
             Console.WriteLine($"{customer.CustomerName}, dia chi {customer.Address}");
+            //6.Kiểu động (dynamic)
         }
     }
     class Student
